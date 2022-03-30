@@ -1,0 +1,50 @@
+F:\Database Management 2\Week No 6\Team Management\Team Management\bin\Debug\Team Management.exe.config
+F:\Database Management 2\Week No 6\Team Management\Team Management\bin\Debug\Team Management.exe
+F:\Database Management 2\Week No 6\Team Management\Team Management\bin\Debug\Team Management.pdb
+F:\Database Management 2\Week No 6\Team Management\Team Management\bin\Debug\Team Management.xml
+F:\Database Management 2\Week No 6\Team Management\Team Management\obj\Debug\Team Management.vbprojAssemblyReference.cache
+F:\Database Management 2\Week No 6\Team Management\Team Management\obj\Debug\Team_Management.formTeam.resources
+F:\Database Management 2\Week No 6\Team Management\Team Management\obj\Debug\Team_Management.Resources.resources
+F:\Database Management 2\Week No 6\Team Management\Team Management\obj\Debug\Team Management.vbproj.GenerateResource.cache
+F:\Database Management 2\Week No 6\Team Management\Team Management\obj\Debug\Team Management.vbproj.CoreCompileInputs.cache
+F:\Database Management 2\Week No 6\Team Management\Team Management\obj\Debug\Team Management.exe
+F:\Database Management 2\Week No 6\Team Management\Team Management\obj\Debug\Team Management.xml
+F:\Database Management 2\Week No 6\Team Management\Team Management\obj\Debug\Team Management.pdb
+C:\Database Management 2\Team Management\Team Management\obj\Debug\Team Management.vbprojAssemblyReference.cache
+C:\Database Management 2\Team Management\Team Management\obj\Debug\Team_Management.formTeam.resources
+C:\Database Management 2\Team Management\Team Management\obj\Debug\Team_Management.Resources.resources
+C:\Database Management 2\Team Management\Team Management\obj\Debug\Team Management.vbproj.GenerateResource.cache
+C:\Database Management 2\Team Management\Team Management\obj\Debug\Team Management.vbproj.CoreCompileInputs.cache
+C:\Database Management 2\Team Management\Team Management\obj\Debug\Team Management.exe
+C:\Database Management 2\Team Management\Team Management\obj\Debug\Team Management.xml
+C:\Database Management 2\Team Management\Team Management\obj\Debug\Team Management.pdb
+C:\Database Management 2\Team Management\Team Management\bin\Debug\Team Management.exe.config
+C:\Database Management 2\Team Management\Team Management\bin\Debug\Team Management.exe
+C:\Database Management 2\Team Management\Team Management\bin\Debug\Team Management.pdb
+C:\Database Management 2\Team Management\Team Management\bin\Debug\Team Management.xml
+C:\Users\kylem\source\repos\Team Management\Team Management\bin\Debug\Team Management.exe.config
+C:\Users\kylem\source\repos\Team Management\Team Management\bin\Debug\Team Management.exe
+C:\Users\kylem\source\repos\Team Management\Team Management\bin\Debug\Team Management.pdb
+C:\Users\kylem\source\repos\Team Management\Team Management\bin\Debug\Team Management.xml
+C:\Users\kylem\source\repos\Team Management\Team Management\obj\Debug\Team Management.vbproj.AssemblyReference.cache
+C:\Users\kylem\source\repos\Team Management\Team Management\obj\Debug\Team_Management.formTeam.resources
+C:\Users\kylem\source\repos\Team Management\Team Management\obj\Debug\Team_Management.Form2.resources
+C:\Users\kylem\source\repos\Team Management\Team Management\obj\Debug\Team_Management.Resources.resources
+C:\Users\kylem\source\repos\Team Management\Team Management\obj\Debug\Team Management.vbproj.GenerateResource.cache
+C:\Users\kylem\source\repos\Team Management\Team Management\obj\Debug\Team Management.vbproj.CoreCompileInputs.cache
+C:\Users\kylem\source\repos\Team Management\Team Management\obj\Debug\Team Management.exe
+C:\Users\kylem\source\repos\Team Management\Team Management\obj\Debug\Team Management.xml
+C:\Users\kylem\source\repos\Team Management\Team Management\obj\Debug\Team Management.pdb
+C:\Users\John Nathaniel Supan\Documents\VB\Team Management\bin\Debug\Team Management.exe.config
+C:\Users\John Nathaniel Supan\Documents\VB\Team Management\bin\Debug\Team Management.exe
+C:\Users\John Nathaniel Supan\Documents\VB\Team Management\bin\Debug\Team Management.pdb
+C:\Users\John Nathaniel Supan\Documents\VB\Team Management\bin\Debug\Team Management.xml
+C:\Users\John Nathaniel Supan\Documents\VB\Team Management\obj\Debug\Team Management.vbproj.AssemblyReference.cache
+C:\Users\John Nathaniel Supan\Documents\VB\Team Management\obj\Debug\Team_Management.formTeam.resources
+C:\Users\John Nathaniel Supan\Documents\VB\Team Management\obj\Debug\Team_Management.Form2.resources
+C:\Users\John Nathaniel Supan\Documents\VB\Team Management\obj\Debug\Team_Management.Resources.resources
+C:\Users\John Nathaniel Supan\Documents\VB\Team Management\obj\Debug\Team Management.vbproj.GenerateResource.cache
+C:\Users\John Nathaniel Supan\Documents\VB\Team Management\obj\Debug\Team Management.vbproj.CoreCompileInputs.cache
+C:\Users\John Nathaniel Supan\Documents\VB\Team Management\obj\Debug\Team Management.exe
+C:\Users\John Nathaniel Supan\Documents\VB\Team Management\obj\Debug\Team Management.xml
+C:\Users\John Nathaniel Supan\Documents\VB\Team Management\obj\Debug\Team Management.pdb
